@@ -57,24 +57,37 @@ body {
 }
 .about-section {
   height: 100vh;
+  width: 100%;
   background-color: #2b2b2b;
 }
 .experience-section {
+  height: 100vh;
+  width: 100%;
   background-color: #202020;
 }
 .portfolio-section {
+  height: 100vh;
+  width: 100%;
   background-color: #2b2b2b;
 }
 .service-section {
+  height: 100vh;
+  width: 100%;
   background-color: #202020;
 }
 .blog-section {
+  height: 100vh;
+  width: 100%;
   background-color: #2b2b2b;
 }
 .contact-section {
+  height: 100vh;
+  width: 100%;
   background-color: #202020;
 }
 .footer-section {
+  height: 100vh;
+  width: 100%;
   background-color: #2b2b2b;
 }
 
